@@ -139,23 +139,3 @@ message += num1 + " - " + num2 + " = " + (num1 - num2);
 
 // write message to web page
 document.write(message);
-
-
-/*
-This is my beginning to functions part.
-This one is a function by itself. () {} and no semi colon
-
-function alertRandom() {
-  var randomNumber = Math.floor( Math.random() * 6 ) + 1;
-  alert(randomNumber);
-}
-alertRandom();
-
-This is a function stored inside of a variable
-
-var alertRandom = function () {
-    var randomNumber = Math.floor(Math.random() * 6 ) + 1;
-    alert(randomNumber);
-};
-alertRandom();
-*/
