@@ -1,7 +1,3 @@
-// This is still a repeating myself program. I am not yet to the DRY
-// stage but I am getting there!
-// Also a ton of this code is my practice and credit is due to Team Treehouse, so thanks!
-
 // The Mad Libs game!
 
 
